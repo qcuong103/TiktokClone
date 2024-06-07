@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo-av": "^9.2.3",
+    "expo-image-picker": "^10.2.2",
+    "expo-media-library": "^12.1.2",
+    "redux": "^4.1.0"
+  }
+}
